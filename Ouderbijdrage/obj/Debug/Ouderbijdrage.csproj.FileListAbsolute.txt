@@ -1,0 +1,10 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\bin\Debug\Ouderbijdrage.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\bin\Debug\Ouderbijdrage.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\bin\Debug\Ouderbijdrage.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\obj\Debug\Ouderbijdrage.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\obj\Debug\Ouderbijdrage.Form1.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\obj\Debug\Ouderbijdrage.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\obj\Debug\Ouderbijdrage.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\obj\Debug\Ouderbijdrage.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\obj\Debug\Ouderbijdrage.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 13 Ouderbijdrage school\Ouderbijdrage\Ouderbijdrage\obj\Debug\Ouderbijdrage.pdb
